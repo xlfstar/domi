@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import HelloWorld from '@/components/HelloWorld.vue'
+// import HelloWorld from '@/components/HelloWorld.vue'
 </script>
 
 <template>
   <div class="main">
     <div class="content">dsdsds</div>
-    <HelloWorld />
+    <!-- <HelloWorld /> -->
   </div>
  
 </template>
